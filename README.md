@@ -28,4 +28,4 @@ This Web API allows online retail companies to create, read, update, and delete 
 * <a href="https://npmjs.com" target="_blank">NPM</a>
 * <a href="https://github.com/BMArsenault/E-commerce_Retail" target="_blank">Github</a>
 
-Walk through video explaining backend through Insomnia: * <a href="https://watch.screencastify.com/v/E3yKWMYWSQweF2ydr21p" target="_blank">Video</a>
+Walk through video explaining backend through Insomnia:  <a href="https://watch.screencastify.com/v/E3yKWMYWSQweF2ydr21p" target="_blank">Video</a>
